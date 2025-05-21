@@ -80,3 +80,6 @@ To transform the data into a stationary series:
 💡 Author Notes
 This project was completed as part of my Master’s coursework to demonstrate understanding of time series transformation techniques and the use of least squares regression in stationarity extraction.
 
+
+[View Rendered Report](https://github.com/angellal29al/Least-Squares-for-Time-Series-Stationarity/blob/main/Method%20of%20Least%20Squares.html)
+
