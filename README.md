@@ -81,5 +81,5 @@ To transform the data into a stationary series:
 This project was completed as part of my Master’s coursework to demonstrate understanding of time series transformation techniques and the use of least squares regression in stationarity extraction.
 
 
-[View Rendered Report](https://github.com/angellal29al/Least-Squares-for-Time-Series-Stationarity/blob/main/Method%20of%20Least%20Squares.html)
+ [View the rendered R project on RPubs]([https://rpubs.com/yourusername/projectname](https://rpubs.com/angallal/1313129))
 
